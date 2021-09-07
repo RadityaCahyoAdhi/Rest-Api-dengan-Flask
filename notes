@@ -1,2 +1,0 @@
-# Syntax Procfile
-web: gunicorn <nama file aplikasi>:<variabel inisiasi object flask> --reload --workers <jmlh worker>
